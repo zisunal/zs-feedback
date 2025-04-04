@@ -1,0 +1,19 @@
+{
+    "name": "zs/zs-feedback",
+    "description": "A wordpress plugin that helps to take feedback of contents",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zs\\ZsFeedback\\": "src/",
+            "ZS\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MD Al Fariya Zisun",
+            "email": "alzisun1111@gmail.com"
+        }
+    ],
+    "require": {}
+}
